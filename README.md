@@ -18,7 +18,7 @@ In a cashflow hedge of a variable-rate financial asset or liability, either exis
 
 In summary, the “benchmark” hedging can be identified as such only if both the floating-rate of the swap and the floating index related to a variable-rate asset / liability of which cashflows are hedged represent the same benchmark interest-rate index.
 
-The hedged item is identified as the variability of expected cashflows associated with an existing recognized asset or liability (such as all or certain future interest payments on variable-rate debt) or a forecasted transaction.
+The hedged item is identified as the variability of expected cashflows associated with an existing recognized asset or liability (such as all or certain future interest payments, i.e., coupon payment (see https://finpricing.com/lib/FiBondCoupon.html) on variable-rate debt) or a forecasted transaction.
 
 The notional of the swap may differ from the principal amount of the hedged item/s of which projected cashflows are calculated. The hedge designation and documentation will specify the principal amount of the item being hedged.
 
@@ -29,15 +29,6 @@ For a cashflow hedge that has met the hedge effectiveness criteria, the ineffect
 The effective portion of cash-flow hedges (numerically equal to the difference between a change in the fair-value of the derivative and the hedge ineffectiveness reported in the P&L) is recorded in Other Comprehensive Income (OCI). In the case of underhedging, a change in the full fair-value of derivatives is reported in the OCI.
 
 If a cashflow hedge is perfectly effective (projected cashflows of the derivative exactly match projected cashflows of the hedged item at all times) or if underhedging is persistent, the P&L impact related to cash-flow hedge accounting is limited to the gradual reclassification of the fair-value of the derivative recorded in OCI into earnings.
-
-
-Reference:
-
-https://finpricing.com/lib/EqConvertible.html
-
-https://zenodo.org/record/6546938/files/cashFlowHedge.pdf
-
-https://zenodo.org/record/6546938#.YpDvB6gpDq4
 
 
 
